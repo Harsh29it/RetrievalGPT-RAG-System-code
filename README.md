@@ -186,6 +186,3 @@ AI/ML Engineer | Data Analyst | Generative AI Developer
 
 ---
 
-# ⭐ If You Like This Project
-
-Give this repository a ⭐ on GitHub and support the project.
