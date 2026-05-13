@@ -1,4 +1,4 @@
-# NeuroRAG – Intelligent Retrieval-Augmented Generation System
+## RAG – Intelligent Retrieval-Augmented Generation System
 
 ## Overview
 NeuroRAG is an advanced Retrieval-Augmented Generation (RAG) application designed to enhance Large Language Model responses using semantic document retrieval and vector search.
