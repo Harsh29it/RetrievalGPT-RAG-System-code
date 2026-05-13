@@ -1,0 +1,16 @@
+langchain
+groq
+transformers
+sentence-transformers
+faiss-cpu
+chromadb
+huggingface-hub
+pandas
+numpy
+scikit-learn
+torch
+tiktoken
+python-dotenv
+jupyter
+notebook
+ipykernel
